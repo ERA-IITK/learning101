@@ -1,2 +1,2 @@
-# Learning101
+# Learning 101
 This repo contain learining material.
