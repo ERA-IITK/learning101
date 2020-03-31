@@ -1,6 +1,6 @@
 ### Installation of Linux and Introduction to Linux Ecosystem
 
----
+--
 
 **Getting Started with Ubuntu**  
 • Install Ubuntu 16.04  
