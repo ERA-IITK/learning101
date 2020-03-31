@@ -1,5 +1,5 @@
 ### Installation of Linux and Introduction to Linux Ecosystem
-
+---
 **Getting Started with Ubuntu**  
 • Install Ubuntu 16.04  
 • Install VS code, Google Chrome  
@@ -40,7 +40,7 @@
 ### Reading  
 
 • Read the Rules Manual for RoboMaster AI challenge 2020  
----
+
 ### Image Processing  
 
 • What is an image?  
