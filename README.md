@@ -86,7 +86,7 @@ nodes and topics.
   - Go through &#39;An Introduction to Modern CMake&#39; from [cliutils](https://cliutils.gitlab.io/modern-cmake/)
     - Installing CMake
     - Running CMake
-    -  Complete chapter 2- an introduction to the basics.
+    -  Complete chapter 2- An Introduction to the basics. https://drive.google.com/file/d/1Zzpkhemh-Hy6f4JnBFJeUH3KxYQ2ZabH/view
   - Complete tutorial 1 made by the [Cmake Foundation](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
   - Complete [Using Dependencies Guide](https://cmake.org/cmake/help/latest/guide/using-dependencies/index.html)
   - Those who did not complete ROS tasks by making a package need to do it in this way.
