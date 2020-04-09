@@ -80,3 +80,26 @@ nodes and topics.
    - Write a node that moves the turtle forward when the input is &#39;f&#39; and backward when input is &#39;b&#39;  
    - Write a node that takes an input &#39;r&#39; from the user and makes the turtle move in c circle of radius &#39;r&#39;  
 
+
+### Getting comfortable with the ROS Eco-System - CMake
+  - What is CMake? Why should we be using it
+  - Go through &#39;An Introduction to Modern CMake&#39; from [cliutils](https://cliutils.gitlab.io/modern-cmake/)
+    - Installing CMake
+    - Running CMake
+    -  Complete chapter 2- an introduction to the basics.
+  - Complete tutorial 1 made by the [Cmake Foundation](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+  - Complete [Using Dependencies Guide](https://cmake.org/cmake/help/latest/guide/using-dependencies/index.html)
+  - Those who did not complete ROS tasks by making a package need to do it in this way.
+### Having fun with ROS.
+  - You have to work in pairs to write a subscriber publisher pair that can communicate over the network to your partner&#39;s computer.
+    -  Ping the network, Perform simple addition.
+    -  You must use a ROS based approach.
+    -  Submit these task as a separate compiled workspace
+    -  Generate the RQT graph and submit that as an image file
+  - Now modify your talker subscriber network such that the talker on your computer is able to control the turtlesim turtle in your partner&#39;s computer.
+    -  The movements are forward and backward, turn left 90\* turn right 90\*. The forward-backward motion must be quantized for each keypress irrespective of the duration of the keypress.
+  - Now modify your above program to include gesture recognition. Control the turtlesim turtle on your partner&#39;s computer using hand gestures in front of your webcam
+    -  The same movement constraints apply as above.
+    -  You must get feedback of the current position of the turtle, back on your screen.
+    -  Use OpenCV for image processing
+  - The above tasks need to be done in the C programming language and compiled as a package
