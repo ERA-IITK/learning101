@@ -1,5 +1,5 @@
 # Learning 101
-![Learning 101]()
+![Learning 101](https://github.com/ERA-IITK/learning101/blob/master/learning101.png)
 
 
 # Getting Started
